@@ -68,6 +68,7 @@ h2 {
 
 figure .logo img{
   border: none;
+  
 }
 
 
@@ -86,6 +87,7 @@ figure .logo img{
 
 .hero-image{
   object-fit: cover;
+  height: 230px;
 }
 
 .portfolio {
@@ -342,3 +344,4 @@ figure {
   height: inherit;
   flex-wrap: inherit;
 }
+
